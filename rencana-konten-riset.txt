@@ -2,6 +2,8 @@ RENCANA KONTEN RISET:
 - bangun website personal:
   * html
   * js
-  * php, etc
+  * php
+  * framework, etc
 - membuat crawling website di topik riset: -biomechatronics, sensing, health
 - develop tool IoT for health
+- morphometric animals

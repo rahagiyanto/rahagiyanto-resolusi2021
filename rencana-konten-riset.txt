@@ -1,12 +1,14 @@
 RENCANA KONTEN RISET:
 - bangun website personal:
-  * html
-  * js
-  * php
-  * framework, etc
-- membuat crawling website di topik riset: -biomechatronics, sensing, health
-- membuat sistem EHR
-- develop tool IoT for health
+  * company profile
+  * crawling data health
+  * membuat crawling website di topik riset: sensing, health
+- biomechatronics:
+  * deteksi EMG untuk px stroke
+  * robotic kaki & tangan untuk orang cacat
+- develop tool IoT for health:
+  * alat monitoring kontrol tekanan darah untuk px jantung
   * EMR
   * PHR
+- membuat sistem EHR
 - morphometric animals

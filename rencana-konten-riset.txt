@@ -1,0 +1,4 @@
+RENCANA KONTEN RISET:
+- bangun website personal
+- membuat crawling website di topik riset: -biomechatronics, sensing, health
+- develop tool IoT

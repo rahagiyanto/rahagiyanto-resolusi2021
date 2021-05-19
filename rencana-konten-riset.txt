@@ -8,4 +8,7 @@ RENCANA KONTEN RISET:
   * robotic kaki & tangan untuk orang cacat
 - develop tool IoT for health:
   * alat monitoring kontrol tekanan darah untuk px jantung
+  * EMR
+  * PHR
+- membuat sistem EHR
 - morphometric animals

@@ -5,8 +5,8 @@ RENCANA KONTEN RISET:
   * php
   * framework, etc
 - membuat crawling website di topik riset: -biomechatronics, sensing, health
+- membuat sistem EHR
 - develop tool IoT for health
-  * EHR
   * EMR
   * PHR
 - morphometric animals
